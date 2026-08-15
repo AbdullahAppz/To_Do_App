@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "32462513958",
+    "project_id": "algohub-9ee7f",
+    "storage_bucket": "algohub-9ee7f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32462513958:android:d2cc9bfd036737be94c3e7",
+        "android_client_info": {
+          "package_name": "com.example.algohub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRN3KtVEmaQljCdfucePaNB8JfZLRSgi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
